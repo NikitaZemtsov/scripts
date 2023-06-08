@@ -1,0 +1,49 @@
+"Presenter";"/prɪˈzɛntər/";"ведущий";The Presenter of the show was very charismatic.
+"workplace";"/ˈwɜːrkpleɪs/";"рабочее место";The twenty-first century workplace is constantly changing.
+"range";"/reɪndʒ/";"диапазон, ряд";What employers want are skills that can be applied to a range of tasks and roles.
+"flexible";"/ˈflɛksɪb(ə)l/";"гибкий";They look for flexible people who can demonstrate transferable professional skills.
+"academic";"/ˌakəˈdɛmɪk/";"академический";A large part of the academic experience is based around individual performance.
+"internships";"/ˈɪntərnˌʃɪps/";"стажировки";Now, obviously, an internship's an ideal way to do this.
+"movement";"/ˈmuːvm(ə)nt/";"движение";Twenty-first century careers involve a lot of movement.
+"flexibility";"/ˌflɛksɪˈbɪlɪti/";"гибкость";This is where flexibility is important.
+"attribute";"/ˈatrɪˌbjut/";"атрибут, характеристика";Be prepared to develop attributes that are transferable across sectors.
+"critical thinking";"/ˈkrɪtɪkəl ˈθɪŋkɪŋ/";"критическое мышление";I'm talking about things like critical thinking, which means analysing information very carefully.
+"passionate";"/ˈpæʃ(ə)nət/";"страстный";Be passionate- if you're really going to apply to a company that you're interested in.
+"determination";"/dɪˌtɜːrmɪˈneɪʃ(ə)n/";"решительность";It's their own determination that's gonna get them a job, right?
+"integrity";"/ɪnˈtɛɡrɪti/";"честность";Convince them that you have integrity.
+"authenticity";"/ˌɔːθɛnˈtɪsɪti/";"подлинность";Be genuine and authentic about that passion.
+"enthusiasm";"/ɪnˈθuːziæzəm/";"энтузиазм";Employers are looking for personal qualities such as enthusiasm.
+"voluntary";"/ˈvɒlənt(ə)ri/";"добровольный";You can also gain experience through voluntary work.
+"influence";"/ˈɪnfluəns/";"влияние";Being able to influence people is a valuable skill.
+"internship";"/ˈɪntərnʃɪp/";"стажировка";Obviously, an internship is an ideal way to gain experience.
+"societies";"/səˈsaɪətiz/";"общества";You can also gain experience by helping with societies and clubs while you're at university.
+"sector";"/ˈsɛktər/";"сектор";Transferable attributes across sectors can help you make the best moves for your career.
+"survival";"/səˈvaɪvəl/";"выживание";Here's an insider's guide to the skills and qualities that will help you survive in today's job market.
+"insider";"/ˈɪnˌsaɪdər/";"посвященный";Here's an insider's guide to the skills and qualities that will get you hired.
+"recruit";"/rɪˈkruːt/";"нанимать";And one thing that many recruiters put at the top of their list is the ability to work in teams.
+"attribute";"/ˈætrɪbjuːt/";"атрибут, качество";Be prepared to develop attributes that are transferable across sectors.
+"integrity";"/ɪnˈtɛgrɪti/";"целостность, честность";Convince them that you have integrity.
+"sector";"/ˈsɛktər/";"сектор";I'm talking about things like critical thinking across all sectors.
+"convince";"/kənˈvɪns/";"убеждать";Convince them that you have ability.
+"apply";"/əˈplaɪ/";"применять, подавать (заявление)";Can this candidate apply to a company that they're interested in?
+"determination";"/dɪˌtɜːrmɪˈneɪʃən/";"решимость";It's their own determination that's going to get them a job.
+"achievement";"/əˈtʃiːvmənt/";"достижение";So, if you played in a team - guess what? You're a team player - you set goals, you can achieve.
+"genuine";"/ˈdʒɛnjʊɪn/";"подлинный, искренний";Be genuine and authentic about that passion.
+"passionate";"/ˈpæʃənət/";"страстный";Be passionate - if you're really going to apply to a company that you're interested in, make sure your passion comes through.
+"resume";"/rɪˈzjuːm/";"резюме";And don't forget that employers look at the person behind the CV or resume to identify the personal qualities they value in the workplace.
+"behind";"/bɪˈhaɪnd/";"сзади, позади";The cat hid behind the sofa.
+"convince";"/kənˈvɪns/";"убедить";I managed to convince him that it was time to go.
+"integrity";"/ɪnˈtegrɪti/";"честность";His integrity was not doubted by anyone.
+"determination";"/dɪˌtɜːrmɪˈneɪʃən/";"решимость";Her determination helped her succeed in the project.
+"passion";"/ˈpæʃən/";"страсть";His passion for music is evident in his singing.
+"wherever";"/wɛərˈɛvər/";"где бы ни";She said she will follow him wherever he goes.
+"involve";"/ɪnˈvɒlv/";"вовлекать, включать";The job involves dealing with people from different cultures.
+"obviously";"/ˈɒbviəsli/";"очевидно";Obviously, he was not interested in the conversation.
+"indeed";"/ɪnˈdiːd/";"действительно, в самом деле";The work is difficult, indeed impossible without the right tools.
+"passionate";"/ˈpæʃənət/";"страстный";She is passionate about protecting the environment.
+"performance";"/pərˈfɔːməns/";"исполнение, выполнение";The team gave a good performance in last night's game.
+"practising";"/ˈpræktɪsɪŋ/";"практикующий, осуществляющий";I've been practising playing the piano recently.
+"handing in";"/ˈhændɪŋ ɪn/";"сдавать";I'm handing in my assignment tomorrow.
+"in an essay";"/ɪn æn ˈɛseɪ/";"в эссе";He discussed the topic in an essay.
+"instead of";"/ɪnˈstɛd ɒv/";"вместо";She wore a skirt instead of trousers.
+"complaining";"/kəmˈpleɪnɪŋ/";"жаловаться";He's always complaining about the noise.
